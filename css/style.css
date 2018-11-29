@@ -1,3 +1,9 @@
 body {
     background: palegreen;
 }
+
+.swiper {
+    width: 100%;
+    height: 50px;
+    background: red;
+}
